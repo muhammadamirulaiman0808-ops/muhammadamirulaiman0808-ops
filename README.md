@@ -154,7 +154,7 @@ Python · FastAPI · React · PostgreSQL
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadamirulaiman0808-ops&show_icons=true&theme=github_dark)
 
 ---
 
