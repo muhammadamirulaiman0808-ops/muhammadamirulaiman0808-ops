@@ -150,6 +150,10 @@ Python · FastAPI · React · PostgreSQL
 - 🌐 PortSwigger Web Security Academy — **Planned**
 - 🔎 LetsDefend — **Planned**
 
+[![Cisco CCNA](https://github.com/user-attachments/assets/xxxx-xxxx-xxxx)](https://www.credly.com/badges/c56727a6-db98-4539-b3f9-26c5afb3f5d3/public_url)
+
+* **Cisco Certified Network Associate (CCNA)** — [Sahkan di Credly](https://www.credly.com/badges/c56727a6-db98-4539-b3f9-26c5afb3f5d3/public_url)
+
 ---
 
 ## 📊 GitHub
