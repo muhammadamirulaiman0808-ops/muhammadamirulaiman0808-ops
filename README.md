@@ -154,7 +154,7 @@ Python · FastAPI · React · PostgreSQL
   <img src="https://github.com/user-attachments/assets/d0209f07-afed-4d99-a3f6-0530f613075c" width="100" />
 </a>
 
-* **Cisco Certified Network Associate (CCNA)** — [Sahkan di Credly](https://www.credly.com/badges/c56727a6-db98-4539-b3f9-26c5afb3f5d3/public_url)
+* **Cisco Certified Network Associate (CCNA)** — [Credly](https://www.credly.com/badges/c56727a6-db98-4539-b3f9-26c5afb3f5d3/public_url)
 
 ---
 
