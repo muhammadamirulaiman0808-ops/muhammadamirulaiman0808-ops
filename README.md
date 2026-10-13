@@ -1,4 +1,3 @@
-<img width="600" height="600" alt="apply-ai-update-your-resume" src="https://github.com/user-attachments/assets/d0209f07-afed-4d99-a3f6-0530f613075c" />
 # 🛡️ Muhammad Amirul Aiman Bin Abdullah
 
 ### Cybersecurity Student | SOC | Network Security | Security Automation
@@ -151,7 +150,9 @@ Python · FastAPI · React · PostgreSQL
 - 🌐 PortSwigger Web Security Academy — **Planned**
 - 🔎 LetsDefend — **Planned**
 
-[![Cisco CCNA](https://github.com/user-attachments/assets/xxxx-xxxx-xxxx)](https://www.credly.com/badges/c56727a6-db98-4539-b3f9-26c5afb3f5d3/public_url)
+<a href="https://www.credly.com/badges/c56727a6-db98-4539-b3f9-26c5afb3f5d3/public_url">
+  <img src="https://github.com/user-attachments/assets/d0209f07-afed-4d99-a3f6-0530f613075c" width="100" />
+</a>
 
 * **Cisco Certified Network Associate (CCNA)** — [Sahkan di Credly](https://www.credly.com/badges/c56727a6-db98-4539-b3f9-26c5afb3f5d3/public_url)
 
