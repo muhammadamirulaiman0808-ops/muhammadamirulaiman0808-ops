@@ -1,3 +1,4 @@
+<img width="600" height="600" alt="apply-ai-update-your-resume" src="https://github.com/user-attachments/assets/d0209f07-afed-4d99-a3f6-0530f613075c" />
 # 🛡️ Muhammad Amirul Aiman Bin Abdullah
 
 ### Cybersecurity Student | SOC | Network Security | Security Automation
